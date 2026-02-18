@@ -75,7 +75,7 @@
           <lb ed="#B" n="4"/>ni alguna parte de ellas, si ellos de su libre voluntad pagar  
           <lb ed="#B" n="5"/>no los quisieren.  
         </p>
-        <p>
+        <p xml:id="dc7aa7-e02682-d1e145">
           <lb ed="#B" n="6"/>La primera parte se prueva porque qualquiera rey cathó¬
           <lb ed="#B" n="7"/>lico es obligado de precepto divino a ensalzar y dilatar y defen¬
           <lb ed="#B" n="8"/>der la fe cathólica y religión christiana a su costa no sólo de di¬
@@ -84,16 +84,16 @@
           <lb ed="#B" n="11"/>precepto se lo mandasse. Lo primero se prueba porque todo  
           <lb ed="#B" n="12"/>fiel christiano es obligado a confesar la fe por los actos exte¬
           <lb ed="#B" n="13"/>riores, según la materia y possiblidad tuviere: segun aquello  
-          <lb ed="#B" n="14"/><ref>Ad Romanos 10:</ref> <quote>«Ore autem confessio fit ad salutem»</quote>, y aquello <ref>Marcos,  
-          <lb ed="#B" n="15"/>8</ref> et <ref>Lucas 9 et 12:</ref> <quote>«Qui me confessus fuerit coram  
+          <lb ed="#B" n="14"/><ref xml:id="dc7aa7-e02682-Rd1e165">Ad Romanos 10:</ref> <quote xml:id="dc7aa7-e02682-Qd1e167">«Ore autem confessio fit ad salutem»</quote>, y aquello <ref xml:id="dc7aa7-e02682-Rd1e170">Marcos,  
+          <lb ed="#B" n="15"/>8</ref> et <ref xml:id="dc7aa7-e02682-Rd1e175">Lucas 9 et 12:</ref> <quote xml:id="dc7aa7-e02682-Qd1e177">«Qui me confessus fuerit coram  
           <lb ed="#B" n="16"/>hominibus, confitebor et ego eum coram Patre meo. Et qui me erubuerit, hunc  
           <lb ed="#B" n="17"/>Filius hominis erubescet cum venerit in maiestate sua etc... »,</quote>
           <lb ed="#B" n="18"/>conviene a saber, cada y quando que se offreciere caso en el qual 
           <lb ed="#B" n="19"/>la honrra y honor divino se disminuyese, o los próximos chri¬
-          <lb ed="#B" n="20"/>stianos algún peligro en su salud espiritual padeciesen: de eso, <ref>S. Thomas,
+          <lb ed="#B" n="20"/>stianos algún peligro en su salud espiritual padeciesen: de eso, <ref xml:id="dc7aa7-e02682-Rd1e191">S. Thomas,
           <lb ed="#B" n="21"/>2.2 q.4 a.1 et 2,</ref> Pues los reyes son fieles y las causas de la fe son  
-          <lb ed="#B" n="22"/>comunes a todo christiano, et apparet <ref>96 dist., c. ubinam legis
-          <lb ed="#B" n="23"/>tis etc.</ref> et <ref>C. Nos ad fidem, 23, q.5, c. <quote>«Principes seculi non nunquam  
+          <lb ed="#B" n="22"/>comunes a todo christiano, et apparet <ref xml:id="dc7aa7-e02682-Rd1e198">96 dist., c. ubinam legis
+          <lb ed="#B" n="23"/>tis etc.</ref> et <ref xml:id="dc7aa7-e02682-Rd1e203">C. Nos ad fidem, 23, q.5, c. <quote xml:id="dc7aa7-e02682-Qd1e205">«Principes seculi non nunquam  
           <lb ed="#B" n="24"/>intra ecclesiam potestatis adepte culmina tenent ut per eandem 
           <lb ed="#B" n="25"/>Potestenentur tatem disciplinam ecclesiasstican muniant, etc... Cognoscant 
           <lb ed="#B" n="26"/>principes seculi Deo se debere reddituros esse rationem propter  
@@ -103,15 +103,15 @@
           <lb ed="#B" n="30"/>o dilatándola o conservándola, que son actos exteriores por los quales  
           <lb ed="#B" n="31"/>manifiestan tener la fe que tienen todos los fieles christianos. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e02682-d1e226">
           <lb ed="#B" n="32"/>Lo segundo se prueva también, conviene a saber, mayormente  
           <lb ed="#B" n="33"/>si el Vicario de Christo, Summo Pontífice, por precepto se lo man¬
           <lb ed="#B" n="34"/>da porque el Summo Pontífice puede mandar a qualquiera rey  
           <lb ed="#B" n="35"/>christiano como al ministro del reyno de Jesuchristo, según   
           <pb ed="#B" n="152-r"/>
-          <lb ed="#B" n="1"/><ref>Aquello Sapientia 6:</ref> Audite Reges terre et intelligite quam data est 
+          <lb ed="#B" n="1"/><ref xml:id="dc7aa7-e02682-Rd1e240">Aquello Sapientia 6:</ref> Audite Reges terre et intelligite quam data est 
           <lb ed="#B" n="2"/>a Domino potestas vobis ab Altissimo, quia cum essetis mi¬
-          <lb ed="#B" n="3"/>nistri Regni illius, etc...»; et <ref>Ad Romanos 13.</ref> que a su costa y expen¬
+          <lb ed="#B" n="3"/>nistri Regni illius, etc...»; et <ref xml:id="dc7aa7-e02682-Rd1e246">Ad Romanos 13.</ref> que a su costa y expen¬
           <lb ed="#B" n="4"/>sas, después de aver supplido las necessidades de su propio reyno,  
           <lb ed="#B" n="5"/>suppla y socorra las de la Universal Yglesia, así para amplialla  
           <lb ed="#B" n="6"/>como para deffendella y conservarla, y el rey es obligado de precepto  
@@ -126,9 +126,9 @@
           <lb ed="#B" n="15"/>cernientes el edificio espiritual de la religión christiana, sub¬
           <lb ed="#B" n="16"/>jectos son los reyes del Vicario de Christo y obligados a obedecer y 
           <lb ed="#B" n="17"/>cumplir sus mandamientos como al mismo Jesuchristo, según aque¬ 
-          <lb ed="#B" n="18"/>llo <ref>Lucas 10:</ref> «<quote>Qui vos audit, me audit: et qui vos spernit, me spernit</quote>»;  
-          <lb ed="#B" n="19"/>y <ref>Sant Pablo, Ad Hebreos 13</ref>: <quote>«Obedite prepositis vestris, etc...»</quote> et San Cirillo  
-          <lb ed="#B" n="20"/>en el <ref>Libro de los thesauros,</ref> post multa,<quote> «Sed ut membra maneant 9 
+          <lb ed="#B" n="18"/>llo <ref xml:id="dc7aa7-e02682-Rd1e281">Lucas 10:</ref> «<quote xml:id="dc7aa7-e02682-Qd1e283">Qui vos audit, me audit: et qui vos spernit, me spernit</quote>»;  
+          <lb ed="#B" n="19"/>y <ref xml:id="dc7aa7-e02682-Rd1e287">Sant Pablo, Ad Hebreos 13</ref>: <quote xml:id="dc7aa7-e02682-Qd1e290">«Obedite prepositis vestris, etc...»</quote> et San Cirillo  
+          <lb ed="#B" n="20"/>en el <ref xml:id="dc7aa7-e02682-Rd1e294">Libro de los thesauros,</ref> post multa,<quote xml:id="dc7aa7-e02682-Qd1e296"> «Sed ut membra maneant 9 
           <lb ed="#B" n="21"/>in capite Nostro apostolico throno romanorum pontificum,  
           <lb ed="#B" n="22"/>a quo nostrum est querere quid credere et quid tenere debeamus 
           <lb ed="#B" n="23"/>ipsum venerantes, ipsum rogantes pre omnibus, qui ipsius est so¬ 
@@ -136,9 +136,9 @@
           <lb ed="#B" n="25"/>solvere et loco eius ligere qui ipsum edidicavit et nulli alio quod  
           <lb ed="#B" n="26"/>suum est sed ipsi soli dedit. Cui omnes iure divino caput indignant  
           <lb ed="#B" n="27"/>et primates mundi tanquam Christo Domino Jesu obediunt, etc...»;</quote>  
-          <lb ed="#B" n="28"/>y S. Thomas,<ref> De Regime principum lib. 1, cap. 24,</ref> dice lo mismo, y en el <ref>lib. 2 Sentent., 
-          <lb ed="#B" n="29"/>dist. 44, in fin.,</ref> y sobre la Epístola <ref>2 Ad Corinthios, cap. 12, lectio 2,</ref>  
-          <lb ed="#B" n="30"/>y <ref>Ad Philippenses, cap. 4,</ref> dize que para proveer las necesidades de una
+          <lb ed="#B" n="28"/>y S. Thomas,<ref xml:id="dc7aa7-e02682-Rd1e316"> De Regime principum lib. 1, cap. 24,</ref> dice lo mismo, y en el <ref xml:id="dc7aa7-e02682-Rd1e319">lib. 2 Sentent., 
+          <lb ed="#B" n="29"/>dist. 44, in fin.,</ref> y sobre la Epístola <ref xml:id="dc7aa7-e02682-Rd1e324">2 Ad Corinthios, cap. 12, lectio 2,</ref>  
+          <lb ed="#B" n="30"/>y <ref xml:id="dc7aa7-e02682-Rd1e328">Ad Philippenses, cap. 4,</ref> dize que para proveer las necesidades de una
           <lb ed="#B" n="31"/>patria, puede el Papa imponer subsidio a las otras partes del  
           <lb ed="#B" n="32"/>mundo. Conforme con lo dicho, lo que el Papa recuerda en la 
           <lb ed="#B" n="33"/>Bula de concesión de las Indias, donde adjura, conjura  
@@ -158,8 +158,8 @@
           <lb ed="#B" n="12"/>pensas que para conseguir aquel fin fuesen mittendi viros probos. Y la razón  
           <lb ed="#B" n="13"/>es clara porque impuesto el precepto del fin necessariamente se si¬
           <lb ed="#B" n="14"/>gue ser puesto precepto para los medios sin los quales no se puede con¬
-          <lb ed="#B" n="15"/>seguir el fin, <ref>ex 2 Pbysicorum y S. Thomas 2.2 q.44 a.1</ref> y materia  
-          <lb ed="#B" n="16"/>es de juristas en el <ref>cap. 1 y cap. preterea, De officio delegatió.</ref> Los medios 
+          <lb ed="#B" n="15"/>seguir el fin, <ref xml:id="dc7aa7-e02682-Rd1e374">ex 2 Pbysicorum y S. Thomas 2.2 q.44 a.1</ref> y materia  
+          <lb ed="#B" n="16"/>es de juristas en el <ref xml:id="dc7aa7-e02682-Rd1e378">cap. 1 y cap. preterea, De officio delegatió.</ref> Los medios 
           <lb ed="#B" n="17"/>para esto necesarios son las expensas, y mayormente que los dichos 
           <lb ed="#B" n="18"/>señores Reyes se combidaron a ello, y por su propia policitación  
           <lb ed="#B" n="19"/>se obligaron, como parece por las palabras de la Bulla referidas. Luego  
