@@ -64,7 +64,7 @@
           <lb ed="#B" n="16"/>Principio. 8.
         </p>
         <p xml:id="dc7aa7-e05627-d1e115">
-          <lb ed="#B" n="17"/>¶Al menos de cinquenta años a este de mill y quinientos y sesenta
+          <lb ed="#B" n="17"/>¶ Al menos de cinquenta años a este de mill y quinientos y sesenta
           <lb ed="#B" n="18"/>y tres en que por la benigna misericordia de Dios oy bivimos,
           <lb ed="#B" n="19"/>no ha havido, y muchos menos hay hoy hombre en todas las Indias
           <lb ed="#B" n="20"/>que haya tenido ni tenga buena fe: ni se pueda escusar con ella
@@ -94,8 +94,9 @@
           <lb ed="#B" n="10"/>yguales, de tal manera que no se inclinará más a una parte
           <lb ed="#B" n="11"/>que a otra notablemente.
         </p>
-        ¶El 2o vocablo es: quién será aquél 
+        
         <p xml:id="dc7aa7-e05627-d1e189">
+          <lb ed="#B" n="12"/>¶ El 2o vocablo es: quién será aquél 
           <lb ed="#B" n="12"/>que con verdad se puede dezir que es possedor de buena o mala fe (conviene a saber)
           <lb ed="#B" n="13"/>Aquél pues posseedor de buena o mala fe y conviene a saber: 
           <lb ed="#B" n="14"/>de buena consciencia, que no sabe que aquello que tiene es ageno, y
@@ -110,7 +111,7 @@
           <lb ed="#B" n="18"/>justa y probable causa que tiene para dudar, de manera que más
           <lb ed="#B" n="19"/>se le inclina el ánimo a que lo que tiene es ageno, que no a que es su
           <lb ed="#B" n="20"/>yo; ésta es duda firme y que házeles a la consciencia, según <ref xml:id="dc7aa7-e05627-Rd1e224">se
-          <lb ed="#B" n="21"/>colije de la Glossa en el cap. final del principio</ref>, <sic>in verbo<!--edition has verbis--></sic> <quote>nulla 
+          <lb ed="#B" n="21"/>colije de la Glossa en el cap. final del principio</ref>, <sic>in verbo<!--edition has verbis--></sic> <quote xml:id="dc7aa7-e05627-Qd1e229">nulla 
           <lb ed="#B" n="22"/>temporis parte</quote> y del <ref xml:id="dc7aa7-e05627-Rd1e235">Baldo, in cap. Vigilanti, De prescriptionibus, 2 columna, eodem título</ref>.
         </p>
         <p xml:id="dc7aa7-e05627-d1e238">
@@ -153,7 +154,7 @@
           tyráni<lb ed="#B" break="no" n="17"/>co y abominable. Vienen nuevas a España, y los religiosos
           <lb ed="#B" n="18"/>en proseguimiento de su verdad. Házense en Burgos, donde a la sazón
           <lb ed="#B" n="19"/>el Rey cathólico don Fernando estava, grandes ayuntamientos
-          <lb ed="#B" n="20"/><!--line 29 keeps going here. unsure why-->
+          <lb ed="#B" n="20"/><!-- line coord error -->
           <lb ed="#B" n="21"/><!--this is actually line 20-->de letrados pareció al Rey todo lo hecho en aquellas Islas 
           abo<lb ed="#B" break="no" n="22"/>minable, y a los que según Dios sentían ser contra Su ley, 
           dolién<lb ed="#B" n="23"/>dose de la perdición de tantas ánimas y con tanta crueldad.
@@ -197,8 +198,7 @@
           Provi<lb ed="#B" break="no" n="21"/>ssiones reales <sic><!--edition has pars--></sic> para en favor indios y en estorvo y alivio
           <lb ed="#B" n="22"/>de los tormentos e injusticias y vida infernal que les
           <lb ed="#B" n="23"/>davan y luego llegavan a noticia de los españoles, blas
-          <lb ed="#B" n="24"/>
-          <sic><!--edition has blasfemavan--></sic> phemavan del Consejo del Rey, diziendo que no sabían lo que
+          <lb ed="#B" n="24"/><sic><!--edition has blasfemavan--></sic> phemavan del Consejo del Rey, diziendo que no sabían lo que
           <lb ed="#B" n="25"/>proveyan y mandayan, / y por todas las vías y maneras que
           <lb ed="#B" n="26"/>podían las impedían queno se executasen, hasta del todo perder
           <lb ed="#B" n="27"/>la vergúenca y fidelidad que devían a su Rey, y se algaron 
@@ -213,11 +213,11 @@
           <lb ed="#B" n="1"/>fue al menos duda probable que obligava a todos los que
           <lb ed="#B" n="2"/>querían yr a las Indias a inquirir y saber la verdad, 
           preguntan<lb ed="#B" break="no" n="3"/>do a los más siervos de Dios y más letrados que pudiesen hallar
-          <lb ed="#B" n="4"/>antes que passassen a aquellas partes <quote>«Est nam comparatum
+          <lb ed="#B" n="4"/>antes que passassen a aquellas partes <quote xml:id="dc7aa7-e05627-Qd1e456">«Est nam comparatum
           <lb ed="#B" n="5"/>ut probis et honestis viris vehementius celeriusque credamus
           <lb ed="#B" n="6"/>non solum in his rebus que certe explorateque sunt sed etiam
           <lb ed="#B" n="7"/>omnino in his que in utranque partem asseruntur oppinionis 
-          <lb ed="#B" n="8"/>arbitrio»</quote>, según <ref>el Philósofo, 1 Rethorice cap. 3°.</ref><!--footnote says ref is Aristóteles, Rbet, 1 cap. 3-4. cf. D. Th. II, 1-3--> Fueron en culpa, o 
+          <lb ed="#B" n="8"/>arbitrio»</quote>, según <ref xml:id="dc7aa7-e05627-Rd1e467">el Philósofo, 1 Rethorice cap. 3°.</ref><!--footnote says ref is Aristóteles, Rbet, 1 cap. 3-4. cf. D. Th. II, 1-3--> Fueron en culpa, o 
           <lb ed="#B" n="9"/>de ignorancia affectada que agravia el peccado, si a sabiendas
           <lb ed="#B" n="10"/>y por malicia lo dexaron, / o de ignorancia crassa y supina
           <lb ed="#B" n="11"/>que no escusa del peccado ni la restitución que deve ser hecha;
@@ -232,8 +232,8 @@
           meti<lb ed="#B" break="no" n="20"/>dos, porque regla es de los sanctos y no sanctos theólogos y
           <lb ed="#B" n="21"/>juristas que, en las dudas. si la una parte es segura, y la otra
           <lb ed="#B" n="22"/>es peligrosa, se debe seguir de necesidad la segura por no ponerse 
-          <lb ed="#B" n="23"/>en el tal peligro, porque <quote source="http://scta.info/resource/sir3_27/critical@8-12">qui amat periculum peribitin illo</quote>
-          <lb ed="#B" n="24"/><ref>Ecclesiástico 3,</ref> y por consiguiente los tales, aunque las dichas 
+          <lb ed="#B" n="23"/>en el tal peligro, porque <quote xml:id="dc7aa7-e05627-Qd1e503" source="http://scta.info/resource/sir3_27@8-12">qui amat periculum peribitin illo</quote>
+          <lb ed="#B" n="24"/><ref xml:id="dc7aa7-e05627-Rd1e507">Ecclesiástico 3,</ref> y por consiguiente los tales, aunque las dichas 
           o<lb ed="#B" break="no" n="25"/>bras iniquas y crueles no se hizieran, si participaron de los 
           <lb ed="#B" n="26"/>bienes por ellas havidos en qualquiera manera de 
           participa<lb ed="#B" break="no" n="27"/>ción, no tuvieron ni tienen buena sino mala fe, y de mala
